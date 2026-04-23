@@ -31,7 +31,7 @@ Yelp Open Dataset, which combines several JSON files covering reviews, businesse
 - BERT + Cross-Attention  
 - BERT + Gate Fusion
 - BiLSTM
-- LSTMjjjj
+- LSTM
 - Hierarchical Transformer + Cross-Attention
 
 The best result showed *Hierarchical Transformer + Cross-Attention* and *BERT + Gate Fusion*
