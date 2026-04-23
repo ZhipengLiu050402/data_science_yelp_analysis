@@ -9,7 +9,7 @@
 - BERT + Cross-Attention  
 - BERT + Gate Fusion
 - BiLSTM
-- LSTM
+- LSTMjjjj
 - Hierarchical Transformer + Cross-Attention
 #### Classical ML
 - Random Forest
